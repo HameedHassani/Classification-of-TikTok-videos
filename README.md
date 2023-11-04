@@ -2,7 +2,7 @@
 
 Project Overview
 
-The primary goal of the project was to create a machine learning model to help with classification of videos as either claims or opinions. For this purpose, I used a dataset of around 2000 videos posted on TikTok. Out of two tree-based classification models that were built, the random forest model was chosen the final model based on its better recall score. The model had nearly perfect prediction with only five misclassified samples out of 3,817. The primary predictors were all related to video engagement levels, with video view count, like count, share count, and download count accounting for nearly all predictive signal in the data.
+The primary goal of the project was to create a machine learning model to help with classification of videos as either claims or opinions. For this purpose, I used a synthetic dataset of around 2000 videos posted on TikTok. Out of two tree-based classification models that were built, the random forest model was chosen the final model based on its better recall score. The model had nearly perfect prediction with only five misclassified samples out of 3,817. The primary predictors were all related to video engagement levels, with video view count, like count, share count, and download count accounting for nearly all predictive signal in the data.
 
 Business Understanding 
 
