@@ -10,7 +10,7 @@ TikTok videos receive a large number of user reports for many different reasons.
 
 Data Understanding 
 
-The dataset used for this project contained synthetic created by TikTok in partnership with google. It included 18,383 observations with 12 features. Important features included count variables like view, share and like counts. As shown in the visualization below, the is a balance between classes of target variable. Also, another column was created in the dataset to get the text length for each video.
+The dataset used for this project contained synthetic created by TikTok in partnership with google. It included 18,383 observations with 12 features. Important features included count variables like view, share and like counts. There is a balance between classes of target variable. Also, another column was created in the dataset to get the text length for each video.
 
 Modeling and Evaluation 
 
